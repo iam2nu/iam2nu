@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, ich bin Thunusan 👋
 
-<!--
-**iam2nu/iam2nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer aus Zürich · BSc Informatik ZHAW (2026) · Informatiker EFZ Applikationsentwicklung
 
-Here are some ideas to get you started:
+**Was ich baue**
+- Backend: Java/Spring Boot, Python/FastAPI, PHP, C#/.NET
+- Frontend & Mobile: TypeScript, React, SvelteKit, Flutter, React Native (Expo)
+- DevOps & Security: Docker, CI/CD, digitale Identitäten (OpenID4VCI/VP, SD-JWT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ausgewählte Projekte**
+- [Cross-Platform-Frameworks im Vergleich](https://github.com/iam2nu/cross-platform-mobile-comparison): Fahrtenbuch, Wetter-App und Passwort-Manager je in Flutter, Expo und Capacitor umgesetzt und verglichen (Projektarbeit ZHAW)
+- [Lernello](https://github.com/nova-omnia/lernello): KI-gestützte Lernplattform mit Spring Boot und SvelteKit (Teamprojekt ZHAW, mein Schwerpunkt: Frontend, Mehrsprachigkeit DE/EN/FR/IT, rollenbasierte Zugriffe)
+- Digitale Diplomnachweise mit Self-Sovereign Identity auf der Schweizer Trust-Infrastruktur swiyu (Bachelorarbeit)
+
+📫 [LinkedIn](https://www.linkedin.com/in/thunusan-rajadurai-b2b220226/)
